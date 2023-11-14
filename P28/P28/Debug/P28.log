@@ -1,0 +1,4 @@
+﻿  P28.cpp
+d:\程式設計功課\ch4\p28\p28\p28.cpp(34): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  d:\程式設計功課\ch4\p28\p28\p28.cpp(34): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  P28.vcxproj -> D:\程式設計功課\CH4\P28\Debug\P28.exe
